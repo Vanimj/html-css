@@ -1,0 +1,30 @@
+h1
+{
+    color : rgb(0,0,0);
+    text-align : left;
+}
+p{
+    color : green;
+    text-align: justify;
+}
+img{
+    text-align : right ;
+}
+span{
+    font-style: italic;
+    font-size: large;
+}
+.main-area{
+    width: 66%;
+    float: left;
+}
+.side-bar
+{
+    width: 34%;
+    float:left;
+}
+.content-area
+{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
