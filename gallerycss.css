@@ -1,0 +1,9 @@
+.container
+{
+  display:flex;
+  border:10px solid black;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content:center;
+  height:800px;
+} 
